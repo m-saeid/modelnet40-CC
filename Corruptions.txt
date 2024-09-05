@@ -1,0 +1,29 @@
+Density Corruptions
+Point Density Reduction: Randomly remove points to simulate lower resolution.
+Point Density Increase: Add points to simulate higher resolution or noise.
+
+Noise Corruptions
+Gaussian Noise: Add Gaussian noise to the point coordinates.
+Uniform Noise: Add uniform noise to the point coordinates.
+Outliers: Introduce random outlier points.
+Jitter: Apply small random displacements to points.
+
+Transformation Corruptions
+Rotation: Apply random rotations to the point cloud.
+Scaling: Apply random scaling factors.
+Translation: Apply random translations.
+Shearing: Apply shearing transformations.
+
+Environmental Corruptions
+Simulated Rain: Add points to simulate rain droplets.
+Simulated Fog: Reduce the visibility of points to simulate fog.
+Simulated Snow: Add points to simulate snowflakes.
+
+Sensor Corruptions
+Dropout: Randomly drop points to simulate sensor failures.
+Quantization: Reduce the precision of point coordinates.
+Occlusion: Remove parts of the point cloud to simulate occlusions.
+
+Additional Corruptions
+Color Noise: Add noise to the color attributes of points (if applicable).
+Intensity Noise: Add noise to the intensity values of points (if applicable).
