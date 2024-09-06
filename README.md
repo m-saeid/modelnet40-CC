@@ -1,3 +1,5 @@
+## TREE<br /><br />
+
 Folders:<br />
 |<br />
 |-- Models: We'll run d models after achiving MODELNET40-CC :)))<br />
@@ -8,7 +10,12 @@ Folders:<br />
 |-- data: dis folder contains d code to generate our corrupted dataset (MODELNET40-CC)<br />
 <br />
 <br />
-useful links:<br />
+<br />
+<br />
+<br />
+<br />
+
+## USEFUL LINKS:<br /><br />
 لینک دیتاست modelnet40-2 (اصلاح شده):<br />
 https://drive.google.com/file/d/1hNUzp2wUgJhcPO0nTAZziUZ9xjjS_9V7/view?usp=sharing<br />
 
